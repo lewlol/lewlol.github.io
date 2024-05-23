@@ -257,7 +257,7 @@
 		input[type=password],
 		select,
 		textarea {
-			-webkit-appearance: none;
+			/*-webkit-appearance: none;*/
 			display: block;
 			border: 0;
 			padding: 0.75em 1em;
@@ -420,7 +420,7 @@
 	input[type="reset"],
 	button,
 	.button {
-		-webkit-appearance: none;
+		/*-webkit-appearance: none;*/
 		display: inline-block;
 		text-decoration: none;
 		cursor: pointer;
@@ -947,7 +947,7 @@
 /* Banner */
 
 	#banner {
-		background: #CCE8F4 url('../../images/pic01.jpg');
+		background: #CCE8F4 url('../../images/BannerGif.gif');
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
